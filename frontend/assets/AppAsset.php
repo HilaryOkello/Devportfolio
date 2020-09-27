@@ -19,7 +19,6 @@ class AppAsset extends AssetBundle
         'theme/assets/vendor/owl.carousel/assets/owl.carousel.min.css',
         'theme/assets/vendor/venobox/venobox.css',
         'theme/assets/css/style.css',
-        'theme/assets/css/custom.css',
     ];
     public $js = [
         'theme/assets/vendor/jquery/jquery.min.js',
