@@ -35,7 +35,7 @@ AppAsset::register($this);
   <!-- ======= Header/ Navbar ======= -->
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll" href="<?= Url::to(['site/index']) ?>">OkelloPortfolio</a>
+      <a class="navbar-brand js-scroll" href="#home">OkelloPortfolio</a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault" aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
         <span></span>
@@ -44,7 +44,7 @@ AppAsset::register($this);
       <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link js-scroll active" href="<?= Url::to(['site/index']) ?>">Home</a>
+            <a class="nav-link js-scroll active" href="#home">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll" href="#about">About</a>
