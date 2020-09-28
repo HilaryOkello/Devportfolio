@@ -24,8 +24,8 @@ AppAsset::register($this);
     <meta content="Hilary, Onyango, Okello, portfolio" name="keywords">
 
   <!-- Favicons -->
-  <link href="theme/assets/img/favicon.png" rel="icon">
-  <link href="theme/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="" rel="icon">
+  <link href="" rel="apple-touch-icon">
   
     <?php $this->head() ?>
 </head>
@@ -577,9 +577,9 @@ AppAsset::register($this);
                     <div class="socials">
                       <ul>
                         <li><a href="https://www.facebook.com/okello.hj"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
+                        
                         <li><a href="https://twitter.com/HilaryOnyango"><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="ion-social-pinterest"></i></span></a></li>
+                        
                       </ul>
                     </div>
                   </div>
@@ -608,7 +608,7 @@ AppAsset::register($this);
       <div class="row">
         <div class="col-sm-12">
           <div class="copyright-box">
-            <p class="copyright">&copy; Copyright <strong>DevFolio</strong>. All Rights Reserved</p>
+            <p class="copyright">&copy; Copyright <strong>Okello</strong>. All Rights Reserved</p>
             <div class="credits">
               <!--
               All the links in the footer should remain intact.
@@ -616,7 +616,7 @@ AppAsset::register($this);
               Licensing information: https://bootstrapmade.com/license/
               Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
             -->
-              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+              Designed by <a>Hilary Okello</a>
             </div>
           </div>
         </div>
